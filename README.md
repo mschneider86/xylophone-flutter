@@ -6,6 +6,11 @@
 
 A simple music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are. 
 
+## 🚀 Technologies
+
+  - [Flutter](https://flutter.dev/docs/development/tools/sdk/releases)
+  - [Dart](https://dart.dev/get-dart)
+  
 <p align='center' >
 <img src='https://github.com/mschneider86/xylophone-flutter/blob/master/images/xylophone-flutter.png' alt='Finished App' width='350px' height='720px'/>
   </p>
